@@ -1,0 +1,53 @@
+   .body2{
+    background-image: url("pic/s2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 520px;
+    font-family: 'Dongle', sans-serif;
+   }
+   body{
+     margin: 0;
+     font-family: 'Dongle', sans-serif;
+   }
+   div{
+     margin-left: 0;
+   }
+   .cett{
+    padding-bottom: 520px;
+   }
+   .sh1{
+     font-size: 150px;
+   }
+   .Ssh1{
+    font-size: 70px;
+  }
+   p{
+     font-size: 25px;
+     color: white;
+   }
+   .cdm{
+    position: fixed;
+    display: block;
+   }
+   .tes{
+    display: block;
+   }
+   .nav-item{
+    background: #ddd;
+    color: black;
+   }
+   .rte a{
+     background-color: black;
+    color: white;
+  }
+   .rte a:hover{
+     font-style: oblique;
+     background-color: lavender;
+     color: black;
+   }
+   .cd{
+     width: 20px;
+   }
+   .imgT{
+     width: 500px;
+   }
